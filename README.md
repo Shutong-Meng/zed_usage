@@ -12,7 +12,7 @@ sudo add-apt-repository ppa:graphics-drivers/ppa && sudo apt update
   第一个选no,后面选yes  
 
 3.zed SDK 官网下载　run  
-  /usr/local是默认安装路径　　
+  /usr/local是默认安装路径  
   其中zed/tools下diagnostic可以检测问题，explorer可以看到画面  
 
 4.clone官网ros包，工作空间下编译  
