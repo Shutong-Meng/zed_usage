@@ -3,11 +3,10 @@ How to use zed first time
 
 显卡GTX1050Ti  ubuntu16.04  
 
-1.显卡驱动安装　　
-sudo add-apt-repository ppa:graphics-drivers/ppa && sudo apt update　　
-使用系统设置面板更换显卡驱动，确认更改，等待重启　　
-版本号:410.78  (亲测390不可）  
-
+1.显卡驱动安装  
+sudo add-apt-repository ppa:graphics-drivers/ppa && sudo apt update  
+使用系统设置面板更换显卡驱动，确认更改，等待重启  
+版本号:410.78  (亲测390不可)  
 
 2.cuda9.0 runfile安装　第一个选no,后面选yes  
 
